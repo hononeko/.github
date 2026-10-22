@@ -12,6 +12,5 @@
 
 ## Checklist
 
-- [ ] PR title follows [Conventional Commits](https://www.conventionalcommits.org/)
 - [ ] Tests added or updated
 - [ ] Docs updated (if needed)
