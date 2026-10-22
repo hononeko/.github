@@ -16,7 +16,7 @@ Only the latest release receives security fixes.
 Report them privately instead:
 
 1. **GitHub Security Advisories (preferred):** open the repository's **Security** tab and choose **Report a vulnerability**.
-2. **Email:** `security@hononeko.app`
+2. **Email:** `contact@hononeko.app`
 
 Please include:
 
